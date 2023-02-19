@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1c14e8e7-7671-43da-80ef-3327cb17d2bf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/simple-graphics-0.2.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mastersPong.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Aldino.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Aldino_Lost.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Bola_Vida.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Carol.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Carol_Lost.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Ferrao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Ferrao_Lost.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Joao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Joao_Lost.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Lost_Life_Ball.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Miguel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Miguel_Lost.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Nuno.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Nuno_Lost.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Raquel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Raquel_Lost.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Rolo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Rolo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Rolo2_Lost.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Rolo_Lost.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Zuca.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Zuca_Lost.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/backgroundFinalGame.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/backgroundFire.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/bolaDeFutebol3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/fieldAdeC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/five.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/four.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/initialScream.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/one.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/outSide.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/player1Wins.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/player2Wins.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/pressEsc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/testeFinal.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/three.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/two.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/zero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mastersPong/EventHandlerEnter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mastersPong/EventHandlerLeft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mastersPong/EventHandlerRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mastersPong/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mastersPong/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LwvrUyqiJ3SN75IEOfWsPz8ePG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/luciano/Desktop/mastersPong"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="mastersPong" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.mastersPong.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="mastersPong" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mastersPong.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mastersPong.Main" />
+      <module name="mastersPong" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mastersPong.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.mastersPong.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c14e8e7-7671-43da-80ef-3327cb17d2bf" name="Changes" comment="" />
+      <created>1676795159110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676795159110</updated>
+    </task>
+    <servers />
+  </component>
+</project>
