@@ -13,3 +13,6 @@ We implemented our ideas one at a time working on movement, collision, graphic e
 
 // Tech && Methodologies
 Java 7, OOP, IntelliJ IDEA, SimpleGFX Library, Adobe Photoshop, Git, Apache Ant
+
+
+![MastersPong](https://user-images.githubusercontent.com/116366430/234649284-e8b38f99-ca2a-48a8-8432-384fc0b88e09.gif)
